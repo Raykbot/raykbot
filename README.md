@@ -10,7 +10,7 @@ pkg install bash
 
 git clone https://github.com/Rayk-bo/Raykbot.git
 
-cd Rayk
+cd Raykbot
 
 bash install.sh
 
