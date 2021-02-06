@@ -8,7 +8,7 @@ pkg install git
 
 pkg install bash
 
-git clone https://github.com/Rayk-bo/Raykbot.git
+git clone https://github.com/Raykbot/Raykbot.git
 
 cd Raykbot
 
